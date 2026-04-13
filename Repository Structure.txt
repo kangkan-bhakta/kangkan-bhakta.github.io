@@ -1,0 +1,19 @@
+username.github.io/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   │   ├── profile.jpg
+│   │   ├── projects/
+│   │   │   ├── project1.jpg
+│   │   │   ├── project2.jpg
+│   │   │   └── project3.jpg
+│   │   └── icons/
+│   ├── docs/
+│   │   └── resume.pdf
+│   └── data/
+│       └── projects.json
+├── CNAME
+├── README.md
+└── _config.yml

@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Portfolio - FullStack Developer & ML Researcher
 
-You can use the [editor on GitHub](https://github.com/kangkan01/kangkan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Portfolio Banner](assets/images/banner.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 👨‍💻 About Me
 
-### Markdown
+FullStack Developer, Machine Learning Researcher, Ethical Hacker, ICT Instructor, and Physics Tutor with 8+ years of experience building innovative solutions at the intersection of technology and education.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 🚀 Expertise
 
-```markdown
-Syntax highlighted code block
+- **FullStack Development**: React, Node.js, Python, Cloud Architecture
+- **Machine Learning**: PyTorch, TensorFlow, Computer Vision, NLP
+- **Ethical Hacking**: Penetration Testing, Security Audits, Vulnerability Research
+- **ICT Instruction**: Programming, Networking, Cloud Computing
+- **Physics Tutoring**: AP Physics, IB Physics, University-Level Physics
 
-# Header 1
-## Header 2
-### Header 3
+## 📂 Featured Projects
 
-- Bulleted
-- List
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| Neural Network Visualizer | Interactive web app for ML visualization | React, TensorFlow.js, D3 |
+| SecureShare | E2E encrypted file sharing | Python, FastAPI, WebCrypto |
+| EduPlatform LMS | Learning management system | Next.js, WebRTC, MongoDB |
+| Physics Lab Simulator | Interactive physics simulations | Three.js, WebGL |
+| VulnScan | Automated vulnerability scanner | Python, TensorFlow, OWASP |
 
-1. Numbered
-2. List
+## 📚 Research Publications
 
-**Bold** and _Italic_ and `Code` text
+- **Efficient Few-Shot Learning for Medical Image Segmentation** (NeurIPS 2024)
+- **Adversarial Robustness in Large Language Models** (ICML 2023)
+- **Automated Vulnerability Detection in Web Applications** (USENIX Security 2023)
 
-[Link](url) and ![Image](src)
-```
+## 📞 Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **Email**: your.email@example.com
+- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **X/Twitter**: [@yourusername](https://twitter.com/yourusername)
 
-### Jekyll Themes
+## 📄 License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kangkan01/kangkan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+MIT License - feel free to use this template for your own portfolio!

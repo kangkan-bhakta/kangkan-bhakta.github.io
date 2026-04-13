@@ -1,0 +1,20 @@
+title: Your Name - FullStack Developer & ML Researcher
+description: Portfolio of a FullStack Developer, Machine Learning Researcher, Ethical Hacker, ICT Instructor, and Physics Tutor
+baseurl: ""
+url: "https://yourusername.github.io"
+
+# Social
+github_username: yourusername
+linkedin_username: yourusername
+twitter_username: yourusername
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO
+author: Your Name
+lang: en
